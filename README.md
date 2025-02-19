@@ -1,8 +1,14 @@
-# Hello World! I'm Marvin, a german developer 👋🏼:
-🛜 currently working at Vaillant
-<br>👨🏼‍🎓 studied Electrical & Information Technology at Ruhr-Universität Bochum
-<br>👨🏼‍🎓 interested in artificial intelligence and enrolled in applied artificial intelligence in Fachhochschule Südwestfalen
-<br>👨🏼‍💻 working as developer since 2019
+<h2 align="left">Hi 👋! My name is Marvin and I'm a developer, from Germany</h2>
+
+---
+
+
+🛜 **Currently working at Vaillant**
+<br>👨🏼‍🎓 **Studied Electrical & Information Technology at Ruhr-Universität Bochum**
+<br>👨🏼‍🎓 **Interested in artificial intelligence and enrolled in applied artificial intelligence in Fachhochschule Südwestfalen**
+<br>👨🏼‍💻 **Creating bugs since 2019**
+
+---
 
 # 💻 Tech stack:
 <div align="left">
@@ -40,8 +46,11 @@
   <img width="12" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake.svg" />
-</picture>
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake.svg" />
+  </picture>
+</div>
