@@ -47,6 +47,13 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJwMGxkcW14dWl6N295eWp6aG5mZ2NtaXd4aTZhZ2c5cWJic2k1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hiMRjjRiwEFZiEPbgA/giphy.gif" style="max-width: auto; height: 200px; margin-left: 20px;"/>
+</div>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdiedric1/mdiedric1/output/github-snake-dark.svg" />
